@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spring2019GJ", "Spring2019GJ.csproj", "{EC4B8DD1-617A-7B68-DEB2-BD710E5E5470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spring2019GJ.Editor", "Spring2019GJ.Editor.csproj", "{FD6B83A1-FEA4-DFF3-0EC2-07169F9C1BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC4B8DD1-617A-7B68-DEB2-BD710E5E5470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4B8DD1-617A-7B68-DEB2-BD710E5E5470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4B8DD1-617A-7B68-DEB2-BD710E5E5470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4B8DD1-617A-7B68-DEB2-BD710E5E5470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6B83A1-FEA4-DFF3-0EC2-07169F9C1BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6B83A1-FEA4-DFF3-0EC2-07169F9C1BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6B83A1-FEA4-DFF3-0EC2-07169F9C1BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6B83A1-FEA4-DFF3-0EC2-07169F9C1BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

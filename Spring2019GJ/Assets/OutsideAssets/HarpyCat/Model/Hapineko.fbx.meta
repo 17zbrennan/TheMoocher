@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 7ab8b87ba4f23cb4fa4d8849369342b9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Breast2_L
+    100006: Breast2_R
+    100008: ButtTail1
+    100010: ButtTail2
+    100012: ButtTail3
+    100014: Chest
+    100016: Ear1_L
+    100018: Ear1_R
+    100020: Ear2_L
+    100022: Ear2_R
+    100024: Eye_L
+    100026: Eye_R
+    100028: Eyebrow_L
+    100030: Eyebrow_R
+    100032: //RootNode
+    100034: Head
+    100036: Hips
+    100038: IndexFinger1_L
+    100040: IndexFinger1_R
+    100042: IndexFinger2_L
+    100044: IndexFinger2_R
+    100046: IndexFinger3_L
+    100048: IndexFinger3_R
+    100050: Left ankle
+    100052: Left arm
+    100054: Left elbow
+    100056: Left knee
+    100058: Left leg
+    100060: Left shoulder
+    100062: Left toe
+    100064: Left wrist
+    100066: LeftEye
+    100068: LittleFinger1_L
+    100070: LittleFinger1_R
+    100072: LittleFinger2_L
+    100074: LittleFinger2_R
+    100076: LittleFinger3_L
+    100078: LittleFinger3_R
+    100080: MiddleFinger1_L
+    100082: MiddleFinger1_R
+    100084: MiddleFinger2_L
+    100086: MiddleFinger2_R
+    100088: MiddleFinger3_L
+    100090: MiddleFinger3_R
+    100092: Neck
+    100094: Right ankle
+    100096: Right arm
+    100098: Right elbow
+    100100: Right knee
+    100102: Right leg
+    100104: Right shoulder
+    100106: Right toe
+    100108: Right wrist
+    100110: RightEye
+    100112: RingFinger1_L
+    100114: RingFinger1_R
+    100116: RingFinger2_L
+    100118: RingFinger2_R
+    100120: RingFinger3_L
+    100122: RingFinger3_R
+    100124: Spine
+    100126: Thumb0_L
+    100128: Thumb0_R
+    100130: Thumb1_L
+    100132: Thumb1_R
+    100134: Thumb2_L
+    100136: Thumb2_R
+    100138: Wing1_1_L
+    100140: Wing1_1_R
+    100142: Wing1_2_L
+    100144: Wing1_2_R
+    100146: Wing2_1_L
+    100148: Wing2_1_R
+    100150: Wing2_2_L
+    100152: Wing2_2_R
+    100154: Wing3_1_L
+    100156: Wing3_1_R
+    100158: Wing3_2_L
+    100160: Wing3_2_R
+    100162: Wing4_1_L
+    100164: Wing4_1_R
+    100166: Wing4_2_L
+    100168: Wing4_2_R
+    100170: Wing5_1_L
+    100172: Wing5_1_R
+    100174: Wing5_2_L
+    100176: Wing5_2_R
+    100178: Wing6_1_L
+    100180: Wing6_1_R
+    100182: Wing6_2_L
+    100184: Wing6_2_R
+    100186: Wing7_1_L
+    100188: Wing7_1_R
+    100190: Wing7_2_L
+    100192: Wing7_2_R
+    400000: Armature
+    400002: Body
+    400004: Breast2_L
+    400006: Breast2_R
+    400008: ButtTail1
+    400010: ButtTail2
+    400012: ButtTail3
+    400014: Chest
+    400016: Ear1_L
+    400018: Ear1_R
+    400020: Ear2_L
+    400022: Ear2_R
+    400024: Eye_L
+    400026: Eye_R
+    400028: Eyebrow_L
+    400030: Eyebrow_R
+    400032: //RootNode
+    400034: Head
+    400036: Hips
+    400038: IndexFinger1_L
+    400040: IndexFinger1_R
+    400042: IndexFinger2_L
+    400044: IndexFinger2_R
+    400046: IndexFinger3_L
+    400048: IndexFinger3_R
+    400050: Left ankle
+    400052: Left arm
+    400054: Left elbow
+    400056: Left knee
+    400058: Left leg
+    400060: Left shoulder
+    400062: Left toe
+    400064: Left wrist
+    400066: LeftEye
+    400068: LittleFinger1_L
+    400070: LittleFinger1_R
+    400072: LittleFinger2_L
+    400074: LittleFinger2_R
+    400076: LittleFinger3_L
+    400078: LittleFinger3_R
+    400080: MiddleFinger1_L
+    400082: MiddleFinger1_R
+    400084: MiddleFinger2_L
+    400086: MiddleFinger2_R
+    400088: MiddleFinger3_L
+    400090: MiddleFinger3_R
+    400092: Neck
+    400094: Right ankle
+    400096: Right arm
+    400098: Right elbow
+    400100: Right knee
+    400102: Right leg
+    400104: Right shoulder
+    400106: Right toe
+    400108: Right wrist
+    400110: RightEye
+    400112: RingFinger1_L
+    400114: RingFinger1_R
+    400116: RingFinger2_L
+    400118: RingFinger2_R
+    400120: RingFinger3_L
+    400122: RingFinger3_R
+    400124: Spine
+    400126: Thumb0_L
+    400128: Thumb0_R
+    400130: Thumb1_L
+    400132: Thumb1_R
+    400134: Thumb2_L
+    400136: Thumb2_R
+    400138: Wing1_1_L
+    400140: Wing1_1_R
+    400142: Wing1_2_L
+    400144: Wing1_2_R
+    400146: Wing2_1_L
+    400148: Wing2_1_R
+    400150: Wing2_2_L
+    400152: Wing2_2_R
+    400154: Wing3_1_L
+    400156: Wing3_1_R
+    400158: Wing3_2_L
+    400160: Wing3_2_R
+    400162: Wing4_1_L
+    400164: Wing4_1_R
+    400166: Wing4_2_L
+    400168: Wing4_2_R
+    400170: Wing5_1_L
+    400172: Wing5_1_R
+    400174: Wing5_2_L
+    400176: Wing5_2_R
+    400178: Wing6_1_L
+    400180: Wing6_1_R
+    400182: Wing6_2_L
+    400184: Wing6_2_R
+    400186: Wing7_1_L
+    400188: Wing7_1_R
+    400190: Wing7_2_L
+    400192: Wing7_2_R
+    4300000: Body
+    9500000: //RootNode
+    13700000: Body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: ab03f84887cb6eb43a7fc4de14f295ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dasaT
+    second: {fileID: 2100000, guid: 5219bd4c1e84f5848bfadc38d7302882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye
+    second: {fileID: 2100000, guid: 03d052a3af1821548989f4bde59e5bb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: face
+    second: {fileID: 2100000, guid: c74703470b5c92a439eb8a9ef9067146, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair
+    second: {fileID: 2100000, guid: 0e97511a9a8ac0d48964ae2c6e5e491b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: highlight
+    second: {fileID: 2100000, guid: 188b8754025004046be30e3b865140b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hoshi
+    second: {fileID: 2100000, guid: 572c598be810edd4197488bfecefbc30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: komono
+    second: {fileID: 2100000, guid: 29c3617d4ea0a92429c38ee3a9dbd487, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wing
+    second: {fileID: 2100000, guid: 64dd7dd191163a84a92e24ead4bb392c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
